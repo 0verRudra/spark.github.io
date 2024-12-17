@@ -128,7 +128,7 @@ async function sendToDiscord(event) {
     );
 
     try {
-        const response = await fetch('https://discord.com/api/webhooks/1305745233778315305/UloHzbZ0Oqvj2KZqd-z_Ky2Bg6GVYa_2CUEr1ZAJ87DzhBJgRm1t0XVghFbD6dQ8MBNW', {
+        const response = await fetch('https://discord.com/api/webhooks/1318552780742332466/wBFBUKpYylPh3YFiHnv5oDeYK48CEI0EtVIjt61by9j4DzDXs-GM8CgalkdVQ5jzQ8zg', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
