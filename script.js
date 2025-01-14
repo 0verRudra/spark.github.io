@@ -144,7 +144,7 @@ async function sendToDiscord(event) {
             statusDiv.style.display = "block";
             
             setTimeout(() => {
-                window.location.href = "https://www.instagram.com/find_decor";
+                window.location.href = "https://www.instagram.com/explosivewheyofficial";
             }, 1000);
         } else {
             throw new Error('Failed to process');
